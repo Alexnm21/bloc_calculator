@@ -1,16 +1,11 @@
-# bloc_calculator
 
-A new Flutter project.
+# Bloc Calculator
 
-## Getting Started
+A calculator application using the Bloc state manager, replicating the design of a FrontEnd Mentor challenge: https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Theme 1](/images/theme1.png?raw=true "Theme 1")
+![Theme 2](/images/theme2.png?raw=true "Theme 2")
+![Theme 3](/images/theme3.png?raw=true "Theme 3")
